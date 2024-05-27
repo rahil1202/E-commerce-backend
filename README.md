@@ -41,7 +41,7 @@ npm i express
    ```
 
 ## Demo
-Below is a demonstration of this application. The full walkthrough video can be found on my [Youtube Channel](https://youtu.be/Brnw8__pX88).
+Below is a demonstration of this application.
 
 ![Demo](images/demo.gif)
 
